@@ -1,7 +1,7 @@
-streamlit>=1.30.0
-pandas>=2.0.0
-easyocr>=1.7.1
-openpyxl>=3.1.0
+streamlit
+pandas
+easyocr
+openpyxl
 opencv-python-headless
-pillow>=10.0.0
+pillow
 numpy<2.0.0
